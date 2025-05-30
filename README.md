@@ -119,11 +119,6 @@ If you're experimenting with AI agents and local LLMs, feel free to connect or s
 
 ---
 
-### License
-
-MIT License
-
-```
 
 
 
