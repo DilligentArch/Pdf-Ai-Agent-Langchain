@@ -1,5 +1,5 @@
 
-# 📄 PDF AI Agent with LangChain & Ollama
+# 📄 Chat With Your PDF
 
 This project is a lightweight AI agent that can read and answer questions from **any PDF document** using a Retrieval-Augmented Generation (RAG) pipeline.
 
